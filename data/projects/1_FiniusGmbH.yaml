@@ -1,0 +1,11 @@
+modalID: 1
+title: Java Webanwendung - Investmentbanking
+date: 2009
+img: 1t.png
+client: Finius GmbH
+clientLink: "https://www.finius.de"
+category: Web Development
+description: "In der Finius GmbH habe ich einen Kunden aus der Finanzbranche in der Entwicklung von Java Web-Services unter RAD7 inkl. Web-Service Sicherheit unterstützt.
+Zusätzlich habe ich mithilfe von MQ-Series die bestehende Java Anwendung mit unterschiedlichen IBM Host Programme (Services) verknüpft.
+Das Aufsetzen und die Konfiguration von Projekt-Entwicklungsrechnern inkl. der Erweiterung des Build-Prozesses mit Maven. Diese Aufgaben waren grundlegende Voraussetzungen für die Entwicklung.
+Am Ende der Unterstützung habe ich noch die Möglichkeit gehabt ein Pilotprojekte in ASP.NET aufzusetzen welches das Ziel hatte das interne Framework des Kunden für die bestehende Java Anwendung als Frontend einszusetzen."

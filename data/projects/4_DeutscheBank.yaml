@@ -1,0 +1,18 @@
+modalID: 4
+title: Migration and further development of a Java application
+date: 2014
+img: 4c.png
+client: Deutsche Bank AG
+clientLink: "https://www.deutsche-bank.de"
+category: Development
+description: "Migration und Weiterentwicklung einer Java-Anwendung.
+Weiterentwicklung von einem serviceorientierten
+Archivierungssystem.
+<ul>
+<li>Weiterentwicklung nach fachlichen Vorgaben und garantierter Abwärtskompatibilität zum bestehenden bzw. neuem Datenmodell</li>
+<li>Anpassung und Entwicklung von XSLT-Transformationen und XSD-Schemata</li>
+<li>Modifizierung und Ergänzung der automatisierte Build/Codegenerierungs-Skripte</li>
+<li>Produktionsunterstützung und Fehleranalyse</li>
+<li>Entwicklung von HotFixes/Patches für den Zustand in der Produktion</li>
+</ul>
+"

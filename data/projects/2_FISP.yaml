@@ -1,0 +1,17 @@
+modalID: 2
+title: Development of a Java application according to BASEL 2
+date: 2012-2013
+img: 2c.png
+client: Finanz Informatik Solution Plus
+clientLink: "https://f-i-solutions-plus.de"
+category: Web Development
+description: "Wartung und Weiterentwicklung einer umfangreichen Java-
+Anwendung nach der Eigenkapitalvorschrift BASEL 2.
+<ul>
+<li>Entwicklung neuer Funktionalitäten nach fachlichen Vorgaben</li>
+<li>Erstellung von Reports mit Birt</li>
+<li>Erweiterung der SQL-Datenbank</li>
+<li>DV-Konzeption von Kundenanforderungen</li>
+<li>Dokumentation des ER-Datenbankmodells</li>
+<li>Coaching neuer Projektmitglieder in den zugrundeliegenden Java-Technologien</li>
+</ul>"

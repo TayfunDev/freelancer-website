@@ -1,0 +1,113 @@
+baseurl = "http://tayfun-atik.de/"
+languageCode = "en-us"
+title = "Tayfun Atik"
+theme = "hugo-freelancer-theme"
+
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email youself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    email = "support.request@tayfun-atik.de"
+
+    # Custom assets
+	custom_css = []
+	custom_js  = []
+
+    [params.navigation]
+        brand = "Senior Consult - Freelancer"
+
+
+    [params.header]
+        # Copy your own image into './static/img/'' if you wish
+        image = "test.png"
+        name = "Tayfun Atik"
+        subtitle = "Since 2009 I have been developing software professionally and therefore have a lot of experience as a software developer. My main focus is the conception and development of web applications based on Java/J2EE. I am used to methodical and agile work and have gained very good experience with different developer methods and tools."
+
+
+    [params.portfolio]
+        # All projects defined in their own files. You can find example projects
+        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+        # at the root of this Hugo site.
+        # For more informtion take a look at the README.
+        title = "Portfolio"
+
+        [params.portfolio.modal]
+            client = "Client"
+            date = "Date"
+            category = "Category"
+            buttontext = "Close"
+
+
+    [params.about]
+        title = "About"
+        # The about text is splitted into a left and right column
+        left = "Since 2009, I have been supporting projects, preferably from the financial sector, as a self-determined goal. This involves the acquisition of specialist and technical knowledge in order to implement high-performance and secure applications in a banking environment."
+        right = "In addition to my professional career, I have successfully completed a very good master's degree in computer science with a focus on IT management. It goes without saying that further training and certification measures will be undertaken in order to keep up to date of the latest developments at all levels."
+
+        [params.about.button]
+            text = "Go to Wesmont-Solutions"
+            link = "http://wesmont-solutions.de"
+            icon = "external-link"
+
+
+    [params.contact]
+        title = "Contact"
+
+        # 'error' defines error messages for invalid inputs
+        [params.contact.form.name]
+            text = "Name"
+            error = "Please enter your name."
+
+        [params.contact.form.email]
+            text = "Email Address"
+            error = "Please enter your email address."
+
+        [params.contact.form.phone]
+            text = "Phone Number"
+            error = "Please enter your phone number."
+
+        [params.contact.form.message]
+            text = "Message"
+            error = "Please enter a message."
+
+        [params.contact.form.button]
+            text = "Send"
+
+
+    [params.footer]
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
+
+        [params.footer.location]
+            title = "Location"
+            # Postal address (add as many lines as necessary)
+            address = ["55237 Bornheim", "Finkenweg 16, Germany"]
+
+        [params.footer.social]
+            title = "Around the web"
+            # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+            # for more icons. The icons are represented by their corresponding
+            # CSS class.
+            [[params.footer.social.networks]]
+                icon = "fa-external-link"
+                link=  "http://wesmont-solutions.de"
+
+            [[params.footer.social.networks]]
+                icon = "fa-xing"
+                link = "http://xing.de/tayfun_atik"
+
+            [[params.footer.social.networks]]
+                icon = "fa-linkedin"
+                link=  "http://linkedin.com/tayfun_atik"
+
+
+        [params.footer.credits]
+            title = "About Content"
+            text = "Alle Angaben sind nicht besteatigt"

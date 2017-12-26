@@ -1,0 +1,20 @@
+modalID: 3
+title: Development of a service-oriented high volume output management system
+date: 2013-2014
+img: 3c.png
+client: S&N GmbH
+clientLink: "http://www.s-und-n.de/"
+category: Development
+description: "Wartung und Weiterentwicklung einer umfangreichen Java-
+Anwendung. Serviceorientiertes High Volume Output
+Managementsystem mit multiplen Ausgabenkanälen, inklusive
+Poststraße, Selbstbedienungsterminals, Filialarbeitsplätzen und
+Archivsystemen.
+<ul>
+<li>Weiterentwicklung nach fachlichen Vorgaben</li>
+<li>Erstellung von XSLT-Transformationen und XSD-Schemata</li>
+<li>Erweiterung der Oracle-Datenbank</li>
+<li>Performance Optimierung</li>
+<li>Bug Analyse / QA Unterstützung</li>
+</ul>
+"
