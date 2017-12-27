@@ -1,8 +1,19 @@
+# Site settings
 baseurl = "http://tayfun-atik.de/"
 languageCode = "en-us"
 title = "Tayfun Atik"
 theme = "hugo-freelancer-theme"
 
+
+[params]
+
+    # You can use Markdown syntax for urls [text](//url.to/source) for
+    # most longer texts.
+
+    # To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+    name = "Mr. Hugo"
+    description = "My awesome description"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -28,7 +39,7 @@ theme = "hugo-freelancer-theme"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "test.png"
+        image = "profile.png"
         name = "Tayfun Atik"
         subtitle = "Since 2009 I have been developing software professionally and therefore have a lot of experience as a software developer. My main focus is the conception and development of web applications based on Java/J2EE. I am used to methodical and agile work and have gained very good experience with different developer methods and tools."
 
