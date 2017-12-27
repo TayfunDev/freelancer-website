@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://adoring-noether-6d3108.netlify.com"
+baseurl = "https://adoring-noether-6d3108.netlify.com/"
 languageCode = "en-us"
 title = "Tayfun Atik"
 theme = "hugo-freelancer-theme"
