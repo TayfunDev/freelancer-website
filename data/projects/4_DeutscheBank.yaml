@@ -5,14 +5,12 @@ img: 4c.png
 client: Deutsche Bank AG
 clientLink: "https://www.deutsche-bank.de"
 category: Development
-description: "Migration und Weiterentwicklung einer Java-Anwendung.
-Weiterentwicklung von einem serviceorientierten
-Archivierungssystem.
+description: "Migration and further development of a Java application. Further development of a service-oriented archiving system.
 <ul>
-<li>Weiterentwicklung nach fachlichen Vorgaben und garantierter Abwärtskompatibilität zum bestehenden bzw. neuem Datenmodell</li>
-<li>Anpassung und Entwicklung von XSLT-Transformationen und XSD-Schemata</li>
-<li>Modifizierung und Ergänzung der automatisierte Build/Codegenerierungs-Skripte</li>
-<li>Produktionsunterstützung und Fehleranalyse</li>
-<li>Entwicklung von HotFixes/Patches für den Zustand in der Produktion</li>
+<li>Further development according to functional specifications and guaranteed downward compatibility with the existing or new data model</li>
+<li>Adaptation and development of XSLT transformations and XSD schemes</li>
+<li>Modification and extension of the automated build/ code generation scripts/li>
+<li>Production support and fault analysis</li>
+<li>Development of hotfixes/ patches for the state in production</li>
 </ul>
 "

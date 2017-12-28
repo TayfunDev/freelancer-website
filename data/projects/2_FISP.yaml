@@ -5,13 +5,13 @@ img: 2c.png
 client: Finanz Informatik Solution Plus
 clientLink: "https://f-i-solutions-plus.de"
 category: Web Development
-description: "Wartung und Weiterentwicklung einer umfangreichen Java-
-Anwendung nach der Eigenkapitalvorschrift BASEL 2.
+description: "Maintenance and further development of a comprehensive Java
+application of the BASEL 2 capital requirement.
 <ul>
-<li>Entwicklung neuer Funktionalitäten nach fachlichen Vorgaben</li>
-<li>Erstellung von Reports mit Birt</li>
-<li>Erweiterung der SQL-Datenbank</li>
-<li>DV-Konzeption von Kundenanforderungen</li>
-<li>Dokumentation des ER-Datenbankmodells</li>
-<li>Coaching neuer Projektmitglieder in den zugrundeliegenden Java-Technologien</li>
+<li>Development of new functionalities according to functional specifications</li>
+<li>Creation of reports with Birt</li>
+<li>Enhancement of the SQL database</li>
+<li>Data processing conception of customer requirements</li>
+<li>Documentation of the ER database model</li>
+<li>Coaching of new project members in the underlying Java technologies</li>
 </ul>"

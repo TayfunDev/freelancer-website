@@ -4,5 +4,20 @@ date: 2016-2017
 img: 5c.png
 client: Fiducia & GAD IT AG
 clientLink: "https://www.fiduciagad.de/"
-category: Development
-description: "TODO"
+category: Development/ Technical Product Owner
+description: "Further and new development of modules of the e-banking platform.
+Consulting and support for software developers from
+different subject areas. Development of a central
+Authorization management for microservices.
+
+<ul>
+<li>Support for general solutions and their implementation in the framework</li>
+<li>New development of an authorization management based on OAuth 2 using Java Web Tokens</li>
+<li>Creation of multi-versioned basic services in a channel-neutral portal with VR service and JBF service interfaces</li>
+<li>Coaching of new/existing employees</li>
+<li>Preparations and presentations of workshops on new and existing technologies</li>
+<li>Determination of the technical aspects from the overall requirements of various stakeholders</li>
+<li>Planning and coordination of technical stories for agile development</li>
+<li>Central contact person for the integration of RBF and RBFPlus applications</li>
+</ul>
+"

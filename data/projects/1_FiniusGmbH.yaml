@@ -1,15 +1,15 @@
 modalID: 1
-title: Java Webanwendung - Investmentbanking
+title: Java web application - Investment banking
 date: 2009
 img: 1t.png
 client: Finius GmbH
 clientLink: "https://www.finius.de"
 category: Web Development
-description: "Weiterentwicklung einer Java-Anwendung für Investmentbanking.
+description: "Further development of a Java application for investment banking.
 <ul>
-<li>Implementierung von Java Web-Services unter RAD7 inkl. Web-Services Sicherheit</li>
-<li>Entwicklung eines Pilotprojektes in ASP.NET</li>
-<li>Erweiterung des Build-Prozesses mit Maven</li>
-<li>Anbindung der Java Anwendung über MQ-Series auf IBM Host Programme (Services)</li>
-<li>Aufsetzen/ Konfiguration von Projekt-Entwicklungsrechnern</li>
+<li>Implementation of Java Web-Services under RAD7 incl. Web-Services Security</li>
+<li>Development of a pilot project in ASP. NET</li>
+<li>Extending the build process with Maven</li>
+<li>Connection of the Java application via MQ-Series to IBM host programs (services)</li>
+<li>Setup/configuration of project development computers</li>
 </ul>"

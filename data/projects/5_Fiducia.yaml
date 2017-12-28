@@ -5,18 +5,18 @@ img: 5c.png
 client: Fiducia IT AG
 clientLink: "https://www.fiducia.de/"
 category: Development
-description: "Weiter -und Neuentwicklung von Modulen der E-Banking Plattform.
-Die E-Banking Plattform ist eine Java basierte Web-Anwendung,
-welches als Schnittstelle zu unterschiedlichen Services dient.
+description: "Further and new development of modules of the e-banking platform. The e-banking platform is a Java-based web application,
+which serves as an interface to various services.
 <ul>
-<li>Neuentwicklung eines Bezahlverfahrens nach fachlichen Vorgaben</li>
-<li>Neuentwicklung einer mobilen Geldtransfer Anwendung nach fachlichen Vorgaben</li>
-<li>Anpassung eines Multithread-Modules für die Individualisierung der E-Banking Plattform</li>
-<li>Unterstützung bei allgemeinen Lösungen und deren Implementierung im Rahmenwerk</li>
-<li>Weiterentwicklung und Korrekturen von bestehenden Modulen</li>
-<li>Migration der GVs aus der E-Banking Plattform von XBF zu VDL</li>
-<li>Modifizierung und Ergänzung des automatisierten Build</li>
-<li>Coaching von neuen/bestehenden Mitarbeitern</li>
-<li>Vorbereitungen und Präsentationen von Workshops zu neuen und bestehenden Technologien</li>
-<li>Einführung von Fitness-Test zum automatisieren der Akzeptanztestfälle</li>
+<li>New development of a payment procedure according to professional specifications</li>
+<li>New development of a mobile money transfer application according to professional specifications</li>
+<li>Adaptation of a multithreaded module for the individualisation of the e-banking platform</li>
+<li>Support for general solutions and their implementation in the framework</li>
+<li>Further development and correction of existing modules</li>
+<li>Migration of business transactions from the e-banking platform from XBF to RBF</li>
+<li>Modification and completion of the automated build</li>
+<li>Coaching of new/existing employees</li>
+<li>Preparations and presentations of workshops on new and existing technologies</li>
+<li>Introduction of fitness test to automate acceptance test cases</li>
+</ul>
 "
