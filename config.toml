@@ -100,7 +100,7 @@ theme = "hugo-freelancer-theme"
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["55237 Bornheim", "Finkenweg 16, Germany"]
+            address = ["81373 Munich", "Fuggerstraße 8, Germany"]
 
         [params.footer.social]
             title = "Around the web"
@@ -109,17 +109,17 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-external-link"
-                link=  "http://wesmont-solutions.de"
+                link=  "https://wesmont-solutions.de"
 
             [[params.footer.social.networks]]
                 icon = "fa-xing"
-                link = "http://xing.de/tayfun_atik"
+                link = "https://xing.de/profile/Tayfun_Atik"
 
             [[params.footer.social.networks]]
                 icon = "fa-linkedin"
-                link=  "http://linkedin.com/tayfun_atik"
+                link=  "https://www.linkedin.com/in/tayfun-atik-295a3ab1/"
 
 
         [params.footer.credits]
             title = "About Content"
-            text = "Alle Angaben sind nicht besteatigt"
+            text = "Imprint|Protection of privacy <br><a href=\"/page/imprint.html\" target=\"_blank\" class=\"btn-social btn-outline\"><i class=\"fa fa-info-circle\" aria-hidden=\"true\"></i></a>"
