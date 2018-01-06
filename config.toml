@@ -1,8 +1,9 @@
 # Site settings
-baseurl = "https://adoring-noether-6d3108.netlify.com/"
+baseurl = "http://www.colossus-solutions.de/"
 languageCode = "en-us"
 title = "Tayfun Atik"
 theme = "hugo-freelancer-theme"
+# convert -size 190x256 xc:none -fill white -draw 'roundRectangle 15,15 624,464 15,15' logo: -compose ~/workspace/freelancer-website/tayfun-atik/static/img/profile.png  -composite logo_rounded_frame.png
 
 
 [params]
@@ -26,7 +27,7 @@ theme = "hugo-freelancer-theme"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # "support.request@tayfun-atik.de"
+    # "mail.colossus-solutions.de"
     email = "tayfun.job@gmail.com"
 
     # Custom assets
