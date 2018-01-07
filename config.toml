@@ -67,7 +67,7 @@ theme = "hugo-freelancer-theme"
 
         [params.about.button]
             text = "Go to Wesmont-Solutions"
-            link = "http://wesmont-solutions.de"
+            link = "http://wesmont-solutions.net"
             icon = "external-link"
 
 
@@ -110,15 +110,11 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-external-link"
-                link=  "https://wesmont-solutions.de"
+                link=  "https://wesmont-solutions.net"
 
             [[params.footer.social.networks]]
                 icon = "fa-xing"
                 link = "https://xing.de/profile/Tayfun_Atik"
-
-            [[params.footer.social.networks]]
-                icon = "fa-linkedin"
-                link=  "https://www.linkedin.com/in/tayfun-atik-295a3ab1/"
 
 
         [params.footer.credits]
