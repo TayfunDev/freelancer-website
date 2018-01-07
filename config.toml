@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://www.colossus-solutions.de/"
+baseurl = "https://www.colossus-solutions.de/"
 languageCode = "en-us"
 title = "Tayfun Atik"
 theme = "hugo-freelancer-theme"
